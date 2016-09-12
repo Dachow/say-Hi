@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "say Hi!",
+  "description": "Have a good time!",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_icon": "hi.png",
+    "default_popup": "popup.html",
+    "default_title": "click to say Hi!"
+  }
+}
